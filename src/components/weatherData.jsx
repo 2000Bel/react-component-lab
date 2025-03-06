@@ -1,5 +1,5 @@
 import React from "react";
-const weatherData = ({ day, conditions, time }) => {
+const WeatherData = ({ day, conditions, time }) => {
     return (
       <>
         <h2>{day}</h2>
@@ -13,5 +13,5 @@ const weatherData = ({ day, conditions, time }) => {
       );
   };
   
-  export default weatherData;
+  export default WeatherData;
   

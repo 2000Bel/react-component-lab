@@ -1,7 +1,7 @@
 import React from "react";
 import "./WeatherForecast.css";
-import WeatherIcon from "../WeatherIcon/WeatherIcon";
-import WeatherData from "../WeatherData/WeatherData";
+import WeatherIcon from "./WeatherIcon";
+import WeatherData from "./WeatherData";
 
 const WeatherForecast = ({ day, img, imgAlt, conditions, time }) => {
   return (
