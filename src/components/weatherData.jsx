@@ -1,4 +1,4 @@
-const WeatherData = ({ day, conditions, time }) => {
+const weatherData = ({ day, conditions, time }) => {
     return (
       <>
         <h2>{day}</h2>
@@ -12,5 +12,5 @@ const WeatherData = ({ day, conditions, time }) => {
       );
   };
   
-  export default WeatherData;
+  export default weatherData;
   

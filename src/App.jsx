@@ -1,6 +1,6 @@
 import WeatherForecast from "./components/WeatherForecast/WeatherForecast";
 
-const weatherForecasts = [
+const WeatherForecasts = [
   {
     day: 'Mon',
     img: 'https://pages.git.generalassemb.ly/modular-curriculum-all-courses/react-components-lab/assets/day.svg',

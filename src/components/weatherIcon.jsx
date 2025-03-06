@@ -1,5 +1,5 @@
-const  WeatherIcon  = ({img,imgAlt})=>{
+const  weatherIcon  = ({img,imgAlt})=>{
     return <img src={img} alt={imgAlt}/>;
 };
 
-export default WeatherIcon;
+export default weatherIcon;
