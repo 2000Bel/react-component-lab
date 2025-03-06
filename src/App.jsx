@@ -1,6 +1,6 @@
 
 import React from "react";
-import WeatherForecast from "./components/WeatherForecast/WeatherForecast";
+import WeatherForecast from "./components/WeatherForecast";
 
 const WeatherForecasts = [
   {
